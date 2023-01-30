@@ -1,2 +1,2 @@
 # Student-Time-Management-App
-Student Time Management App created using JavaScript
+Student Time Management App 
